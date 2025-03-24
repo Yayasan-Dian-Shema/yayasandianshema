@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak</title>
+</head>
+<body>
+    <h1>Kontak Kami</h1>
+    <p>Email: yayasanmu@email.com</p>
+    <p>Telepon: +62 812-3456-7890</p>
+    <p><a href="index.html">Kembali ke Beranda</a></p>
+</body>
+</html>
